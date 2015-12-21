@@ -1,5 +1,5 @@
 # CourseCrawler
-uOttawa Course Crawling Application for iOS
+uOttawa Course Crawler Application for iOS
 
 This application collects data for TimetablePlanner by crawling the University of Ottawa website to collect sessions, courses and timeslots. The application exports 3 files:
 
